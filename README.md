@@ -77,5 +77,5 @@ python runmerge_sort.py
 
 說明：三組資料皆成功排序（`sorted=True`），代表演算法實作正確。
 
-## 可放進報告的結論
+## 結論
 RunMerge Sort 在理論上保有 merge-based 的 $O(n \\log n)$ 平均與最壞時間，且利用 run 偵測在近乎有序資料上取得更好的實務效能；其代價是需要 $O(n)$ 額外空間來進行合併。
