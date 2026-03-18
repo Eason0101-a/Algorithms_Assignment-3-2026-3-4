@@ -1,4 +1,4 @@
-## 混合排序演算法的實證觀察：基於 Python 的 RunMerge Sort 效能分析
+# 混合排序演算法的實證觀察：基於 Python 的 RunMerge Sort 效能分析
  Empirical Observation of Hybrid Sorting Algorithm: Performance Analysis of RunMerge Sort Based on Python
 
 ## 題目目標
